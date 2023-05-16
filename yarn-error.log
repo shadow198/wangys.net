@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Users\Administrator\AppData\Local\Volta\tools\image\node\16.15.1\node.exe C:\Users\Administrator\AppData\Local\Volta\tools\image\yarn\1.18.0\bin\yarn.js init
+
+PATH: 
+  C:\Users\Administrator\AppData\Local\Volta\tools\image\yarn\1.18.0\bin;C:\Users\Administrator\AppData\Local\Volta\tools\image\node\16.15.1;C:\Users\Administrator\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Administrator\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Volta;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Program Files (x86)\Tencent\微信web开发者工具\dll;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Administrator\AppData\Local\Volta\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.18.0
+
+Node version: 
+  16.15.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\Administrator\AppData\Local\Volta\tools\image\yarn\1.18.0\lib\cli.js:96593:59)
+      at Object.<anonymous> (C:\Users\Administrator\AppData\Local\Volta\tools\image\yarn\1.18.0\lib\cli.js:88949:38)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\Administrator\AppData\Local\Volta\tools\image\yarn\1.18.0\lib\cli.js:304:30)
+      at C:\Users\Administrator\AppData\Local\Volta\tools\image\yarn\1.18.0\lib\cli.js:315:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
